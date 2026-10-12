@@ -1,0 +1,1 @@
+{"name":"shortwave-api","version":"2.0.0","private":true,"scripts":{"start":"node api/server.js","check":"node --check api/server.js && node --check public/app.js"},"engines":{"node":">=22"},"dependencies":{"express":"^4.21.2","multer":"^2.0.2"}}
